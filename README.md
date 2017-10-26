@@ -22,7 +22,7 @@ saying why you omit the data.
 
 **Table of Contents**
 
-1. Introduction [\#section-3](#section-3){\#__Fieldmark__1_416493247 .anchor}
+1.  Introduction [\#](#)Introduction
 
 1.1 Purpose [\#section-3](#section-3){\#__Fieldmark__2_416493247 .anchor}
 
@@ -37,8 +37,8 @@ saying why you omit the data.
 
 [\#section-3](#section-3){\#__Fieldmark__6_416493247 .anchor}
 
-2. The Overall Description [\#section-3](#section-3){\#__Fieldmark__7_416493247
-.anchor}
+1.  The Overall Description [\#section-3](#section-3){\#__Fieldmark__7_416493247
+    .anchor}
 
 2.1 Product Perspective [\#section-3](#section-3){\#__Fieldmark__8_416493247
 .anchor}
@@ -80,8 +80,8 @@ saying why you omit the data.
 
 [\#section-3](#section-3){\#__Fieldmark__21_416493247 .anchor}
 
-3. Specific Requirements [\#section-3](#section-3){\#__Fieldmark__22_416493247
-.anchor}
+1.  Specific Requirements [\#section-3](#section-3){\#__Fieldmark__22_416493247
+    .anchor}
 
 3.1 External interfaces [\#section-3](#section-3){\#__Fieldmark__23_416493247
 .anchor}
@@ -137,15 +137,16 @@ saying why you omit the data.
 
 [\#section-3](#section-3){\#__Fieldmark__43_416493247 .anchor}
 
-4. Change Management Process
+1.  Change Management Process
 
-5. Document Approvals
+2.  Document Approvals
 
-6. Supporting Information [\#section-3](#section-3){\#__Fieldmark__44_416493247
-.anchor}
+3.  Supporting Information [\#section-3](#section-3)
+
+ 
 
 1. Introduction
-===============
+---------------
 
 *The following subsections of the Software Requirements Specifications (SRS)
 document should provide an overview of the entire SRS. The thing to keep in mind
@@ -939,7 +940,7 @@ section 3 requirements.
 
 **Organized by mode: Version 1**
 
-3. Specific Requirements
+1.  Specific Requirements
 
 3.1 External interface requirements
 
@@ -985,7 +986,7 @@ section 3 requirements.
 
 **Organized by mode: Version 2**
 
-3. Specific Requirements
+1.  Specific Requirements
 
 3.1 Functional Requirements
 
@@ -1028,7 +1029,7 @@ section 3 requirements.
 **Organized by user class (i.e. different types of users -\>System
 Adminstrators, Managers, Clerks, etc.)**
 
-3. Specific Requirements
+1.  Specific Requirements
 
 3.1 External interface requirements
 
@@ -1476,7 +1477,7 @@ as part of your design.)**
 
 **Organized by Use Case (Good when following UML development)**
 
-3. Specific Requirements
+1.  Specific Requirements
 
 3.1 External Actor Descriptions
 
